@@ -1,5 +1,5 @@
 #navbar{
-    height: 92px;
+    /* height: 92px; */
     width: 100%;
     
     display: flex;
@@ -8,7 +8,7 @@
 #navbar img{
     margin: 16px 16px;
     margin-left: 120px;
-    height: 60px;
+    
     width: 139px;
 
 
